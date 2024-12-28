@@ -141,28 +141,6 @@ export default function Page() {
 		};
 		setEventData(newEventData);
 	};
-
-	const saveScores = () => {
-		// Mock function to simulate saving to a database
-		console.log("Saving scores to the database...", eventData);
-		// In a real-world scenario, you would make an API call here
-		// fetch('/api/save-scores', {
-		//     method: 'POST',
-		//     headers: {
-		//         'Content-Type': 'application/json',
-		//     },
-		//     body: JSON.stringify(pilots),
-		// })
-		// .then(response => response.json())
-		// .then(data => {
-		//     console.log('Success:', data);
-		// })
-		// .catch((error) => {
-		//     console.error('Error:', error);
-		// });
-	};
-
-
 	const maxNumberOfRounds = eventData.event.numberOfRounds;
 
 	function getScoreInputsForPilot(pilot) {

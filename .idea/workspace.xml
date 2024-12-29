@@ -5,8 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57ea838d-0740-4858-a7af-95b080e5a32f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/about/about1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/about/about2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/about/about3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/about/pika-about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/contact-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/event/create.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pexels-pixabay-161173.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/about/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/contact/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/events/create/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/events/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pilots-table.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/events/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +69,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/roko/projects/pikapika",
+    "last_opened_file_path": "/Users/roko/projects/pikapika/public",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -57,7 +79,13 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/about" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/event" />
+      <recent name="$PROJECT_DIR$/public/about" />
       <recent name="$PROJECT_DIR$/src/app/event/[slug]" />
       <recent name="$PROJECT_DIR$/src/app/event" />
       <recent name="$PROJECT_DIR$/src/app" />
@@ -78,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735221492353</updated>
-      <workItem from="1735221493631" duration="40710000" />
+      <workItem from="1735221493631" duration="54193000" />
     </task>
     <servers />
   </component>
